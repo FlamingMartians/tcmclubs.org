@@ -1,2 +1,2 @@
 # tcmclubs.org
-Tyee Comp Math Club Website (WIP)
+This is the repository for the tcmclubs.org domain.
